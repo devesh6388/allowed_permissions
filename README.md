@@ -32,7 +32,7 @@ We use the collected information for the following purposes:
 
 - **CAMERA:** Required for taking photos and scanning content within the app.  
 - **ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION:** Needed for GPS and map-based features.  
-- **READ/WRITE_EXTERNAL_STORAGE** Enables uploading, saving, and accessing files/media on your device.  
+- **READ/WRITE_EXTERNAL_STORAGE:** Enables uploading, saving, and accessing files/media on your device.  
 - **READ_MEDIA_IMAGES / READ_MEDIA_VIDEO:** Allows access to media for viewing or editing within the app.  
 - **INTERNET:** Required for communicating with our servers and delivering content.  
 
